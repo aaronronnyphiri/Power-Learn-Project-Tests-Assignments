@@ -1,0 +1,1 @@
+This repository contains solutions to assignments from my Power Learn Project Scholarship. The scholarship is fully online, self paced and offers software development modules eg. Python, Dart, Web Technologies, Databases etc.
